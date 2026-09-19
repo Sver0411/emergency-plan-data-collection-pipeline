@@ -1,0 +1,22 @@
+# 本目录只版本化程序、测试和说明；原始资料及所有运行产物不入库。
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv*/
+raw/
+text/
+json/
+templates/
+local_manifests/
+cleaned*/
+reports*/
+logs*/
+checkpoints*/
+manifests*/
+review*/
+archive/
+knowledge_import_v1/
+*.zip
+pipeline_v2/environment_report.md
+pipeline_v2/tool_sources.json
+pipeline_v2/schemas/
